@@ -10,6 +10,11 @@
 
 	<artifactId>util</artifactId>
 
+	<name>Utilities</name>
+	<description>Common utilities</description>
+	<url>https://bitbucket.org/ericmays/util</url>
+	<inceptionYear>2007</inceptionYear>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -33,9 +38,4 @@
 			<artifactId>jaxen</artifactId>
 		</dependency>
 	</dependencies>
-
-	<build>
-		<plugins>
-		</plugins>
-	</build>
 </project>
