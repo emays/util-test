@@ -6,7 +6,7 @@
 		<groupId>com.mays</groupId>
 		<artifactId>parent</artifactId>
 		<version>0.0.1</version>
-		<relativePath/>
+		<relativePath />
 	</parent>
 
 	<artifactId>util</artifactId>
@@ -47,4 +47,14 @@
 			<artifactId>jaxen</artifactId>
 		</dependency>
 	</dependencies>
+
+	<repositories>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/emays/parent</url>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
 </project>
