@@ -1,7 +1,3 @@
-/*
- * Copyright 2007-2022 Mays Systems. All rights reserved.
- * Confidential and Proprietary. 
- */
 package com.mays.util;
 
 import java.util.Comparator;
