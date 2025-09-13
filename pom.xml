@@ -10,6 +10,7 @@
 	</parent>
 
 	<artifactId>util</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<name>Utilities</name>
 	<description>Common utilities</description>
